@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main(){
-    float f = 0.0f;
-    sizeof(f);
+    double f = 0.0f;
 
-    printf("Size of float: %zu bytes\n", sizeof(f));
+    printf("Size of double: %zu bytes\n", sizeof(f));
     return 0;
 }

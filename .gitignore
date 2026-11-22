@@ -10,3 +10,9 @@ python-envs/
 # C
 *.o
 *.out
+
+# Executáveis
+main
+
+# Mac debug symbols
+*.dSYM
